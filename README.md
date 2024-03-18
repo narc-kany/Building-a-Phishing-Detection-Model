@@ -1,4 +1,5 @@
-![image](https://github.com/narc-kany/Building-a-Phishing-Detection-Model/assets/86925605/ad91d9fa-9067-48ad-8dac-fb0d6320c78f)
+![image](https://github.com/narc-kany/Building-a-Phishing-Detection-Model/assets/86925605/3ee2d590-2f6d-49da-bcca-a73e06d9a3d7)
+
 
 Building a Phishing Detection Model
 Overview

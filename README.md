@@ -61,4 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Provide links to any relevant papers, articles, or resources used for background research or inspiration.
 
 ## Contact
-For any inquiries or suggestions, feel free to contact [email](mailto:email@example.com).
+For any inquiries or suggestions, feel free to contact [email](mailto:sivanesh.developer69@gmail.com).

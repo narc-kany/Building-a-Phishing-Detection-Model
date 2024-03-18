@@ -33,7 +33,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/repository.git
+git clone https://github.com/narc-kany/Building-a-Phishing-Detection-Model.git
 Install the required dependencies:
 
 Copy code

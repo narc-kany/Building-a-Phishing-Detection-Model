@@ -1,3 +1,5 @@
+![image](https://github.com/narc-kany/Building-a-Phishing-Detection-Model/assets/86925605/ad91d9fa-9067-48ad-8dac-fb0d6320c78f)
+
 Building a Phishing Detection Model
 Overview
 Phishing attacks continue to be a prevalent threat to individuals and organizations, leading to compromised accounts, stolen sensitive information, and financial losses. Building an effective phishing detection model is crucial to mitigate these risks. This repository contains the code and resources to develop a phishing detection model using machine learning techniques.
